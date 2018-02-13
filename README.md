@@ -1,0 +1,2 @@
+# mvp
+mission, vision, philosophy
